@@ -42,7 +42,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 
      <div class="page-header">
         <h3>Hi, <b><?php echo ($_SESSION["username"]); ?></b>. Welcome to the dashboard.</h1>
-            <p>Whant to change your password?</p>
+            <p>Want to change your password?</p>
             <div class="row">
                 <div class="col-6" > <a type="button" class="btn btn-primary" href="change-password.php">Yes</a> </div>
                 <div class="col-6"> <a type="button" class="btn btn-danger" href="#">No</a> </div>
