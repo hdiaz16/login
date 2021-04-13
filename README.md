@@ -1,6 +1,6 @@
 
 
-1.- Es necesario crear la base de datos que está en la raíz de proyecto
+1.- Es necesario crear la base de datos que está en la raíz del proyecto
 nombrada como pruebas.sql
 
 2.- En la carpeta includes está la configuración de la base de datos 
